@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPref&amp;DataStore</string>
+    <string name="remember_me">Remember me!</string>
+    <string name="password">Password...</string>
+    <string name="username">Username...</string>
+    <string name="login">Login</string>
+    <string name="encrypted_password">Encrypted Password</string>
+</resources>
